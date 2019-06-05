@@ -8,8 +8,5 @@
 
 ## Définition
 
-Continuer travail 
-
 ## Historique de la technologie
-[Lien](.\sources\YZXURL9R\bbf-2005-05-0056-004.html)
 ## Le plan éthique de la technologie
