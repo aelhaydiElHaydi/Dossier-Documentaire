@@ -1,12 +1,11 @@
-- [Plan de Classement](#plan-de-classement)
-  - [Cas d'utilisation](#cas-dutilisation)
-    - [En bibliothèque](#en-biblioth%C3%A8que)
-    - [Dans des domaines divers](#dans-des-domaines-divers)
-  - [Définition](#d%C3%A9finition)
-  - [Historique de la technologie](#historique-de-la-technologie)
-  - [Le plan éthique de la technologie](#le-plan-%C3%A9thique-de-la-technologie)
+# Introduction 
 
 # Plan de Classement 
+
+[Cas d'utilisation](./classement/cas_utilisations.md)
+[Définition](./classement/definitions.md)
+[Historique de la technologie](./classement/historique.md)
+[Le plan éthique de la technologie](./classement/plan_ethique.md)
 
 ## Cas d'utilisation 
 
@@ -20,11 +19,14 @@ ROBERT, Christophe. Bibliothèque et RFID. Bulletin des Bibliothèques de France
 SOCIAL NEC MERGITUR. La RFID dans les bibliothèques : Une technologie qui pose des questions d’ordre sanitaire, éthique et écologique. Dans : Social Nec Mergitur [en ligne]. 2012. [Consulté le 27 mai 2019]. Disponible à l’adresse : http://parisculturesociale.over-blog.com/article-la-rfid-dans-les-bibliotheques-une-technologie-qui-pose-des-questions-d-ordre-sanitaire-ethique-e-111955970.html.
 
 ### Dans des domaines divers 
+
 NAMEN, Anderson Amendoeira, DA COSTA BRASIL, Felipe, ABRUNHOSA, Jorge José Gouveia, et al. RFID technology for hazardous waste management and tracking. Waste Management & Research [en ligne]. Septembre 2014, Vol. 32, no 9_suppl, p. 59‑66. DOI 10.1177/0734242X14536463.
 
 
 
 ## Définition 
+
+BIBLIOTHÈQUE ET ARCHIVES NATIONALES DU QUÉBEC. La technologie Radio Frequency IDentification (RFID) [en ligne]. août 2017. [Consulté le 8 juin 2019]. Disponible à l’adresse : http://www.banq.qc.ca/documents/services/espace_professionnel/milieux_doc/ressources/Libre_service/rfid.pdf.
 
 MARTIN, Tania. Le b.a.-ba de la RFID : Origines, Technologies et Applications [en ligne]. janvier 2014. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.smalsresearch.be/download/techno/Techno37_RFID_FR.pdf.
 
@@ -63,4 +65,4 @@ NAMEN, Anderson Amendoeira, DA COSTA BRASIL, Felipe, ABRUNHOSA, Jorge José Gouv
 
 SERIOT, Nicolas. Les systèmes d’identiﬁcation radio (RFID) [en ligne]. Janvier 2005, p. 25. Disponible à l'adresse : http://seriot.ch/resources/talks_papers/rfid/rfid.pdf
 
-![RFID](./images/3_Fonctionnement_RFID_1.png)
+# Non classées
