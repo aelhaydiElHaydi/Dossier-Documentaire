@@ -2,9 +2,9 @@
 
 # Plan de Classement 
 
-[Cas d'utilisation](./classement/cas_utilisations.md)
-[Définition](./classement/definitions.md)
-[Historique de la technologie](./classement/historique.md)
+[Cas d'utilisation](./classement/cas_utilisations.md#test)  
+[Définition](./classement/definitions.md)  
+[Historique de la technologie](./classement/historique.md)  
 [Le plan éthique de la technologie](./classement/plan_ethique.md)
 
 ## Cas d'utilisation 
@@ -21,8 +21,6 @@ SOCIAL NEC MERGITUR. La RFID dans les bibliothèques : Une technologie qui pos
 ### Dans des domaines divers 
 
 NAMEN, Anderson Amendoeira, DA COSTA BRASIL, Felipe, ABRUNHOSA, Jorge José Gouveia, et al. RFID technology for hazardous waste management and tracking. Waste Management & Research [en ligne]. Septembre 2014, Vol. 32, no 9_suppl, p. 59‑66. DOI 10.1177/0734242X14536463.
-
-
 
 ## Définition 
 
